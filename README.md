@@ -11,7 +11,6 @@ Instructions to run any of the two python files:-
 
 python <filename.py> <full path of folder containing prescriber-info.csv>
 
-eg: python NVB.py /Users/hannavaj/Desktop/FP
 
 
 
